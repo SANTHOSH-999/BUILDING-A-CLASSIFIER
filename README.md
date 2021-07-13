@@ -5,4 +5,4 @@
 							Step 4 — Building and Evaluating the Model. ...
 							Step 5 — Evaluating the Model's Accuracy.
                                               For more reference ,you  can refer my blogs published in MEDIUM ,
-                                                            "https://link.medium.com/Xw7Qhtk7Rgb"
+                                                            https://link.medium.com/Xw7Qhtk7Rgb
